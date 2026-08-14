@@ -8,9 +8,7 @@ The project uses **Recursive Support Vector Regression (SVR)** to forecast crime
 
 ## Demo
 
-🎥 **Project Demo:** Coming soon.
-
-> A live Streamlit deployment link will be added once the dashboard is publicly hosted.
+🎥 **Project Demo:** [Watch the Crime Data Forecasting Demo](https://youtu.be/Zuu6iFkcr6I)
 
 ---
 
